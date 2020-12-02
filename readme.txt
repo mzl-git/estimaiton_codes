@@ -1,0 +1,1 @@
+These are MATLAB codes for "Accurate Frequency Estimation of Multiple Complex and Real Sinusoids Based on Iterative Interpolation". Click RUN to run the scripts. After few seconds a picture will be ploted, which show that the proposed methods could reach the CRLB.  The codes are tested at MATLAB 2012b. If you have any questions, please contact mzlaccount@163.com
